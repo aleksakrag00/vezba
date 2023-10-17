@@ -1,3 +1,4 @@
 Chapter 1
 
-Differenct chapter 1 text.
+Different chapter 1 text.
+Some addition to it.
